@@ -1,5 +1,5 @@
 # TypeScript for Excel: Comprehensive Reference Guide
-# 2025, Diego F. Loaiza
+# 2024-2025, Diego F. Loaiza
 
 ## Table of Contents
 1. [Introduction](#introduction)
